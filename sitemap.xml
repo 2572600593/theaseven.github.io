@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://theaseven.github.io/2020/11/13/javaweb%20node1/</loc>
+    
+    <lastmod>2020-11-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://theaseven.github.io/2020/11/05/Welcome/</loc>
     
     <lastmod>2020-11-05</lastmod>
@@ -39,7 +46,7 @@
 
   <url>
     <loc>https://theaseven.github.io/</loc>
-    <lastmod>2020-11-06</lastmod>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,7 +54,14 @@
   
   <url>
     <loc>https://theaseven.github.io/tags/free/</loc>
-    <lastmod>2020-11-06</lastmod>
+    <lastmod>2020-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://theaseven.github.io/tags/javaweb/</loc>
+    <lastmod>2020-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
